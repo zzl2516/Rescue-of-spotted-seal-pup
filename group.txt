@@ -1,0 +1,27 @@
+O1	0 days	Rescue
+O2	0 days	Rescue
+O3	0 days	Rescue
+A1	3 days	Rescue
+A2	3 days	Rescue
+A3	3 days	Rescue
+B1	6 days	Diarrhea
+B2	6 days	Diarrhea
+B3	6 days	Diarrhea
+C1	9 days	Diarrhea
+C2	9 days	Diarrhea
+C3	9 days	Diarrhea
+D1	12 days	Diarrhea
+D2	12 days	Diarrhea
+D3	12 days	Diarrhea
+E1	15 days	After recovery
+E2	15 days	After recovery
+E3	15 days	After recovery
+F1	18 days	After recovery
+F2	18 days	After recovery
+F3	18 days	After recovery
+G1	21 days	After recovery
+G2	21 days	After recovery
+G3	21 days	After recovery
+H1	24 days	Release
+H2	24 days	Release
+H3	24 days	Release
